@@ -1,0 +1,9 @@
+.widget_archive li{
+  visibility:hidden;
+}
+.widget_archive li a{
+  visibility:visible;
+}
+.widget_archive li:hover{
+  visibility:visible;
+}
